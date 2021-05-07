@@ -14,4 +14,4 @@ indeed, i have no reason for doing this, i'm just practicing.
 
 USAGE
 
-./run.sh <Target_IP>
+`./run.sh <Target_IP>`
