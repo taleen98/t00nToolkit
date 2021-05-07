@@ -12,6 +12,6 @@ indeed, i have no reason for doing this, i'm just practicing.
 
 
 
-#USAGE
+USAGE
 
 ./run.sh <Target_IP>
