@@ -12,7 +12,7 @@ apt-get install figlet
 ######################## 
 
 git clone https://github.com/busyloop/lolcat.git
-
+apt install lolcat  
 
 ##########################
 ####install gobuster #### 
