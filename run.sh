@@ -18,7 +18,7 @@ echo "+============================================+"
 echo "| [+] Scanning $ip with Nmap ...    |"
 echo "+============================================+"
 
-nmap -T4 -p- -A $ip >> $ip/recon/nmap.txt
+nmap -T4 -p- -A -Pn $ip >> $ip/recon/nmap.txt
 
 
 echo""
