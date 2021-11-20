@@ -1,6 +1,6 @@
 
 
-this is my first toolkit, including nmap,gobuster,dirb and nikto tools.
+this is my first toolkit, which includes nmap,gobuster,dirb and nikto tools.
 
 ```
 [ USAGE ]
